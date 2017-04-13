@@ -29,7 +29,7 @@ I built Sybillian because I wanted to offhand check the "truthiness" of accounts
 that were pushing a specific topic or idea. Whether it be for marketing or otherwise.
 
 ## How can it be used?
-You can either directly mentions [@SybilDetector](https://www.twiter.com/SybilDetector) with a username.
+You can either directly mentions [@SybilDetector](https://www.twitter.com/SybilDetector) with a username.
 ex:
  ```
  @SybilDetector @SwiftOnSecurity
